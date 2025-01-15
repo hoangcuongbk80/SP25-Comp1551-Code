@@ -1,0 +1,14 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\bin\Debug\net8.0\CO1204-Console.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\bin\Debug\net8.0\CO1204-Console.deps.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\bin\Debug\net8.0\CO1204-Console.runtimeconfig.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\bin\Debug\net8.0\CO1204-Console.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\bin\Debug\net8.0\CO1204-Console.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.AssemblyInfoInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.AssemblyInfo.cs
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\refint\CO1204-Console.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.genruntimeconfig.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\ref\CO1204-Console.dll
