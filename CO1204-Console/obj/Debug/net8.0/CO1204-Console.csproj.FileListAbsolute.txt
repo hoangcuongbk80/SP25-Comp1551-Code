@@ -12,3 +12,4 @@ D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Co
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.pdb
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.genruntimeconfig.cache
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\ref\CO1204-Console.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\CO1204-Console\obj\Debug\net8.0\CO1204-Console.sourcelink.json

@@ -1,9 +1,17 @@
-﻿namespace CO1204_Console
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CO1204_Console
 {
-    internal class Program
+    internal class Lecture1
     {
         static void Main1(string[] args)
         {
+            Console.WriteLine("--------- Lecture 1 -----------");
+
             Console.WriteLine("Enter a Campus: ");
             string campus = Console.ReadLine();
 
