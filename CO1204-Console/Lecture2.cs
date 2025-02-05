@@ -45,15 +45,56 @@ namespace CO1204_Console
             Console.WriteLine(Text.GetType());
             Console.WriteLine(Flag.GetType());*/
 
-            Console.WriteLine("Logical Expression:");
+            /*Console.WriteLine("Logical Expression:");
             int UserInput;
             bool Flag;
             Console.WriteLine("Enter a value:");
             UserInput = Convert.ToInt32(Console.ReadLine());
             Flag = (UserInput > 0);
-            Console.WriteLine("The value is positive, {0}", Flag);
+            Console.WriteLine("The value is positive, {0}", Flag);*/
 
-            Console.Read();
+            /*Console.WriteLine("IF ELSE example:");
+            int UserInput;
+            bool Flag;
+            Console.WriteLine("Enter a value:");
+            UserInput = Convert.ToInt32(Console.ReadLine());
+            Flag = (UserInput > 0);
+
+            if(UserInput > 0)
+            {
+                Console.WriteLine("The value is positive");
+            }
+            else
+            {
+                Console.WriteLine("The value is negative");
+            }*/
+
+            /*int i, j;
+            for(i = 1; i < 10; i++)
+            {
+                for (j = 1; j < 10; j++)
+                {
+                    int r = i * j;
+                    Console.Write("{0} ", r);
+                }
+                Console.WriteLine("\n");
+            }
+                
+            Console.Read();*/
+
+            int a = 10;
+            int[] myNumber = { 10, 20, 30 };
+            Console.WriteLine("The first element of the array: {0}", myNumber[0]);
+
+            Console.Write("Array: ");
+            foreach (int i in myNumber) Console.Write("{0} ", i);
+            Console.WriteLine();
+
+            Console.Write("Array: ");
+            for (int i = 0; i < myNumber.Length; i++)
+            {
+                Console.Write("{0} ", myNumber[i]);
+            }
         }
     }
 }
