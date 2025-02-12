@@ -8,7 +8,7 @@ namespace CO1204_Console
 {
     internal class Lecture2
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("--------- Lecture 2 -----------");
 
@@ -18,7 +18,7 @@ namespace CO1204_Console
             int myNewVariable;
             myVariable = 10;
             myNewVariable = 20;
-            Console.WriteLine("{0} {1}");*/
+            Console.WriteLine("{0} {1}", myVariable, myNewVariable);*/
 
             // Constant example
             /*Console.WriteLine("\nConstant example: ");
@@ -70,7 +70,7 @@ namespace CO1204_Console
             }*/
 
             /*int i, j;
-            for(i = 1; i < 10; i++)
+            for (i = 1; i < 10; i++)
             {
                 for (j = 1; j < 10; j++)
                 {
@@ -79,10 +79,10 @@ namespace CO1204_Console
                 }
                 Console.WriteLine("\n");
             }
-                
+
             Console.Read();*/
 
-            int a = 10;
+            /*int a = 10;
             int[] myNumber = { 10, 20, 30 };
             Console.WriteLine("The first element of the array: {0}", myNumber[0]);
 
@@ -94,7 +94,7 @@ namespace CO1204_Console
             for (int i = 0; i < myNumber.Length; i++)
             {
                 Console.Write("{0} ", myNumber[i]);
-            }
+            }*/
         }
     }
 }
