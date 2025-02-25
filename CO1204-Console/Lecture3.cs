@@ -6,33 +6,43 @@ using System.Threading.Tasks;
 
 namespace CO1204_Console
 {
-    class Myclass
+    public class BankAccount
     {
-        public Myclass() 
-        {
-            Console.WriteLine("Nothing");
-        }
-        public Myclass(int i)
-        {
-            Console.WriteLine("Int: {0}", i);
-        }
-        public Myclass(double i)
-        {
-            Console.WriteLine("DOuble: {0}", i);
-        }
-        public Myclass(string s)
-        {
-            Console.WriteLine("string: {0}", s);
-        }
+        private double? balance;  // Private variable  
 
+        public double? Balance
+        {
+            get 
+            {
+                if (checkPass("123"))
+                    return balance;
+                else
+                    return null;
+            }
+            set {
+                    if (checkPass("123"))
+                        balance = value;
+                    else
+                        Console.WriteLine("Incorrect password!");
+                }
+        }
+        private bool checkPass(string password)
+        {
+            Console.WriteLine("Please enter your password: ");
+            string str = Console.ReadLine();
+            if (str == password)
+                return true;
+            else
+                return false;
+        }
     }
     internal class Lecture3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----------Lecture3------------");
-            Myclass MyObject = new Myclass(5.0);
-
+            BankAccount account = new BankAccount();
+            account.Balance = 100;
+            Console.WriteLine("Balance: {0}", account.Balance);
             Console.Read();
         }
     }
