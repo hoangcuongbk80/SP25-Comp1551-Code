@@ -9,7 +9,12 @@ namespace CO1204_Console
     public class BankAccount
     {
         private double? balance;  // Private variable  
+        public string name;
 
+        public BankAccount(string name)
+        {
+            this.name = name;
+        }
         public double? Balance
         {
             get 
@@ -38,9 +43,9 @@ namespace CO1204_Console
     }
     internal class Lecture3
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
-            BankAccount account = new BankAccount();
+            BankAccount account = new BankAccount("Hoang Cuong");
             account.Balance = 100;
             Console.WriteLine("Balance: {0}", account.Balance);
             Console.Read();

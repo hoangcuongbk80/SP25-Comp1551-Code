@@ -1,0 +1,10 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\bin\Debug\TeaShop.exe.config
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\bin\Debug\TeaShop.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\bin\Debug\TeaShop.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.Properties.Resources.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.csproj.GenerateResource.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\TeaShop\obj\Debug\TeaShop.Form1.resources

@@ -1,0 +1,10 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\bin\Debug\FormFGW.exe.config
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\bin\Debug\FormFGW.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\bin\Debug\FormFGW.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.Form1.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.Properties.Resources.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.csproj.GenerateResource.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\SP25\SP25-Comp1551-Code\FormFGW\obj\Debug\FormFGW.pdb
